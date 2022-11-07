@@ -1,4 +1,4 @@
-# Nutritionscraping
+# Nutrition scraping
 ### This is a script which allows you to gather nutritional information of several food from a web page using web scraping techniques. 
 ### It was built with beautiful soup library the process consisted in:
 #### 1- Gather all web page info to parse.
