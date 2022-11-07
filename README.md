@@ -9,5 +9,5 @@
 #### 6- Through tags (tr - to tables) got all data from tables
 #### 7- Clean data
 #### 8- Create an empty data frame with the colmuns needed and then i created a function to convert list into dictionary. After that  using the dictionary keys related to columns i filled data frame.
-#### 9- Using to nested for loops perfomr all the previous process to all data inside web page.
+#### 9- Using two nested for loops perfomor all the previous process to all data inside web page.
 #### 10- Output is an excel sheet
